@@ -1,0 +1,522 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\pobrane\\kkk\\RA-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\controllers\\chatforwhoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:controllers\\chatforwhoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\models\\chatuserdbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:models\\chatuserdbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\controllers\\hidedbmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:controllers\\hidedbmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\models\\datadbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:models\\datadbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\models\\datauserdbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:models\\datauserdbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\models\\userforuserdbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:models\\userforuserdbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\models\\userforshowdbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:models\\userforshowdbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\mapper\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:mapper\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\models\\userdbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:models\\userdbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\controllers\\datascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:controllers\\datascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\models\\chatdbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:models\\chatdbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\models\\chatforwho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:models\\chatforwho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\models\\userchatforwho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:models\\userchatforwho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\context\\contextfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:context\\contextfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\functions\\dbcontrolclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:functions\\dbcontrolclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\serverapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:serverapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\serverapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:serverapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\functions\\controllfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:functions\\controllfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\models\\hidedbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:models\\hidedbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\models\\notificationdbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:models\\notificationdbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|e:\\pobrane\\kkk\\ra-main\\models\\notificationforuserdbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E732C1-064D-4A39-96D1-068A28201158}|ServerApi.csproj|solutionrelative:models\\notificationforuserdbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAUwB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:44:09.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserForUserDbModel.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Models\\UserForUserDbModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserForUserDbModel.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Models\\UserForUserDbModel.cs",
+              "RelativeToolTip": "Models\\UserForUserDbModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:33:19.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataDbModel.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Models\\DataDbModel.cs",
+              "RelativeDocumentMoniker": "Models\\DataDbModel.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Models\\DataDbModel.cs",
+              "RelativeToolTip": "Models\\DataDbModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:23:41.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAD4v3AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:18:02.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificationsController.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAuwAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:45:15.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HideDbModelsController.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Controllers\\HideDbModelsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HideDbModelsController.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Controllers\\HideDbModelsController.cs",
+              "RelativeToolTip": "Controllers\\HideDbModelsController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAwFcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:47:00.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatUserDbModel.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Models\\ChatUserDbModel.cs",
+              "RelativeDocumentMoniker": "Models\\ChatUserDbModel.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Models\\ChatUserDbModel.cs",
+              "RelativeToolTip": "Models\\ChatUserDbModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:32:25.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatForWhoesController.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Controllers\\ChatForWhoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatForWhoesController.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Controllers\\ChatForWhoesController.cs",
+              "RelativeToolTip": "Controllers\\ChatForWhoesController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAzwDQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:51:09.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatsController.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Controllers\\ChatsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatsController.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Controllers\\ChatsController.cs",
+              "RelativeToolTip": "Controllers\\ChatsController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAYwGUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:04:24.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Mapper\\Mapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\Mapper.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Mapper\\Mapper.cs",
+              "RelativeToolTip": "Mapper\\Mapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:13:09.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDbModel.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Models\\UserDbModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserDbModel.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Models\\UserDbModel.cs",
+              "RelativeToolTip": "Models\\UserDbModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:27:40.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataUserDbModel.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Models\\DataUserDbModel.cs",
+              "RelativeDocumentMoniker": "Models\\DataUserDbModel.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Models\\DataUserDbModel.cs",
+              "RelativeToolTip": "Models\\DataUserDbModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:27:42.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContextFile.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Context\\ContextFile.cs",
+              "RelativeDocumentMoniker": "Context\\ContextFile.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Context\\ContextFile.cs",
+              "RelativeToolTip": "Context\\ContextFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:20:52.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChatForWho.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Models\\ChatForWho.cs",
+              "RelativeDocumentMoniker": "Models\\ChatForWho.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Models\\ChatForWho.cs",
+              "RelativeToolTip": "Models\\ChatForWho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:46:11.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserForShowDbModel.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Models\\UserForShowDbModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserForShowDbModel.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Models\\UserForShowDbModel.cs",
+              "RelativeToolTip": "Models\\UserForShowDbModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:17:05.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatasController.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Controllers\\DatasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DatasController.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Controllers\\DatasController.cs",
+              "RelativeToolTip": "Controllers\\DatasController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwEwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:52:39.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChatDbModel.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Models\\ChatDbModel.cs",
+              "RelativeDocumentMoniker": "Models\\ChatDbModel.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Models\\ChatDbModel.cs",
+              "RelativeToolTip": "Models\\ChatDbModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:54:01.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserChatForWho.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Models\\UserChatForWho.cs",
+              "RelativeDocumentMoniker": "Models\\UserChatForWho.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Models\\UserChatForWho.cs",
+              "RelativeToolTip": "Models\\UserChatForWho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:45:45.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T05:18:04.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DbControlClass.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Functions\\DbControlClass.cs",
+              "RelativeDocumentMoniker": "Functions\\DbControlClass.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Functions\\DbControlClass.cs",
+              "RelativeToolTip": "Functions\\DbControlClass.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:38:03.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:16:34.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServerApi.http",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\ServerApi.http",
+              "RelativeDocumentMoniker": "ServerApi.http",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\ServerApi.http",
+              "RelativeToolTip": "ServerApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-19T06:44:07.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServerApi.csproj",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\ServerApi.csproj",
+              "RelativeDocumentMoniker": "ServerApi.csproj",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\ServerApi.csproj",
+              "RelativeToolTip": "ServerApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-29T16:40:00.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-29T18:12:54.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-29T18:22:56.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HideDbModel.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Models\\HideDbModel.cs",
+              "RelativeDocumentMoniker": "Models\\HideDbModel.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Models\\HideDbModel.cs",
+              "RelativeToolTip": "Models\\HideDbModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:06:31.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ControllFunctions.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Functions\\ControllFunctions.cs",
+              "RelativeDocumentMoniker": "Functions\\ControllFunctions.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Functions\\ControllFunctions.cs",
+              "RelativeToolTip": "Functions\\ControllFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:42:32.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALEUAAAAAAAAAAAAAMAUAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-23T06:43:18.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NotificationForUserDbModel.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Models\\NotificationForUserDbModel.cs",
+              "RelativeDocumentMoniker": "Models\\NotificationForUserDbModel.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Models\\NotificationForUserDbModel.cs",
+              "RelativeToolTip": "Models\\NotificationForUserDbModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:33:41.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NotificationDbModel.cs",
+              "DocumentMoniker": "E:\\pobrane\\kkk\\RA-main\\Models\\NotificationDbModel.cs",
+              "RelativeDocumentMoniker": "Models\\NotificationDbModel.cs",
+              "ToolTip": "E:\\pobrane\\kkk\\RA-main\\Models\\NotificationDbModel.cs",
+              "RelativeToolTip": "Models\\NotificationDbModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:28:46.803Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
